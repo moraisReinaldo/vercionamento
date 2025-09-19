@@ -1,7 +1,8 @@
 # Changelog
-## v2.0 - 2025-09-15
+## v3.0 - 2025-09-15
 ### Adicionado
-- Página inicial para usuário administrador (`pg001.html`).
+- Página de mensagem de erro (`msg.html`).
+- Página inicial para usuário operador (`pg002.html`).
 ### Alterado
-- `index.html`: Redirecionamento direto para `pg001.html` após login, sem
-validação.
+- `index.html`: Implementada validação completa de usuário, redirecionando para
+`msg.html`, `pg001.html` ou `pg002.html` conforme o caso.
