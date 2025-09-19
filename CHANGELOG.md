@@ -5,4 +5,4 @@
 - Página inicial para usuário operador (`pg002.html`).
 ### Alterado
 - `index.html`: Implementada validação completa de usuário, redirecionando para
-`msg.html`, `pg001.html` ou `pg002.html` conforme o caso.
+`msg.html`, `pg001.html` ou  `pg002.html`  conforme o caso.
